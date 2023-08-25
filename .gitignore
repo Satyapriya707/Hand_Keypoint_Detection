@@ -1,0 +1,7 @@
+__pycache__/
+img_out/*
+!img_out/.gitkeep
+keypoint_dataset/*
+!keypoint_dataset/.gitkeep
+output/*
+!output/.gitkeep
